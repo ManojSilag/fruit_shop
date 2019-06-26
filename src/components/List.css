@@ -1,0 +1,79 @@
+.listlayout{
+    display: flex;
+    justify-content: center;
+    height: 80vh;
+}
+.leftList{
+    border: 1px solid rgb(211, 210, 210);
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: aliceblue;
+}
+
+.fruitName-1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-group{
+    margin-bottom: 200px;
+}
+
+.fruitName-2{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.RightList{
+    width: 45%;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.fruitName-23{
+    margin-top: 200px;
+    display: flex;
+    justify-content: flex-end;
+    align-content: flex-end;
+    margin-bottom: 10px;
+}
+
+@media (max-width: 700px){
+    .listlayout{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        height: unset;
+    }
+
+    .leftList{
+        width: 90%;
+    }
+
+    .RightList{
+        width: 80%;
+    }
+
+    .fruitName-2{
+        margin-top: 20px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .fruitName-23{
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        margin-bottom: 10px;
+    }
+}
