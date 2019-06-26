@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ManojSilag/fruit_shop/static/css/main.20be8ec5.chunk.css",
+    "main.js": "/ManojSilag/fruit_shop/static/js/main.58b0c63d.chunk.js",
+    "main.js.map": "/ManojSilag/fruit_shop/static/js/main.58b0c63d.chunk.js.map",
+    "runtime~main.js": "/ManojSilag/fruit_shop/static/js/runtime~main.120fd299.js",
+    "runtime~main.js.map": "/ManojSilag/fruit_shop/static/js/runtime~main.120fd299.js.map",
+    "static/js/2.c799a965.chunk.js": "/ManojSilag/fruit_shop/static/js/2.c799a965.chunk.js",
+    "static/js/2.c799a965.chunk.js.map": "/ManojSilag/fruit_shop/static/js/2.c799a965.chunk.js.map",
+    "index.html": "/ManojSilag/fruit_shop/index.html",
+    "precache-manifest.11a1423a042fff5c0dfad005ca9a302c.js": "/ManojSilag/fruit_shop/precache-manifest.11a1423a042fff5c0dfad005ca9a302c.js",
+    "service-worker.js": "/ManojSilag/fruit_shop/service-worker.js",
+    "static/css/main.20be8ec5.chunk.css.map": "/ManojSilag/fruit_shop/static/css/main.20be8ec5.chunk.css.map"
+  }
+}
